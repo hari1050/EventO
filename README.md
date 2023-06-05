@@ -1,8 +1,9 @@
 ## EventO
 
 
-##Website Documentation
-#Table of Contents
+## Website Documentation
+
+# Table of Contents
 1. Introduction
 2. Admin Functionality
 3. Registration and Login
@@ -20,11 +21,11 @@
 15. Community Requests
 16. User Tokens
 
-#1. Introduction
+# 1. Introduction
 
 This documentation provides an overview of the features and functionality of the website. The website serves as a platform for users to host and join events in various spaces. There are two types of actors: admins and users. Admins have additional functionalities such as space listing and analytics, while users can search for spaces, host events, join communities, and earn tokens.
 
-#2. Admin Functionality
+# 2. Admin Functionality
 
 Registration and Login
 
@@ -43,7 +44,7 @@ The admin dashboard provides a centralized location for admins to manage and ana
 Admins can view the revenue generated from each space, check the availability of spaces, and access standard analytics about their listings.
 The dashboard provides valuable insights for admins to optimize their space management and improve the overall user experience.
 
-#3. User Functionality
+# 3. User Functionality
 
 Registration and Login
 
