@@ -6,20 +6,20 @@
 # Table of Contents
 1. Introduction
 2. Admin Functionality
-3. Registration and Login
-4. Space Listing and Features
-5. Admin Dashboard
-6. User Functionality
-7. Registration and Login
-8. Searching for Available Space
-9. Hosting an Event
-10. Event Rules
-11. Home Page and Event Listings
-12. Chat with Party Members
-13. Creating and Joining Communities
-14. Exclusive and Premium Communities
-15. Community Requests
-16. User Tokens
+   - Registration and Login
+   - Space Listing and Features
+   - Admin Dashboard
+3. User Functionality
+   - Registration and Login
+   - Searching for Available Space
+   - Hosting an Event
+   - Event Rules
+   - Home Page and Event Listings
+   - Chat with Party Members
+   - Creating and Joining Communities
+   - Exclusive and Premium Communities
+   - Community Requests
+   - User Tokens
 
 # 1. Introduction
 
